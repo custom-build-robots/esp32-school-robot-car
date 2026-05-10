@@ -32,7 +32,8 @@ A short overview - see [`HARDWARE.md`](HARDWARE.md) for the full bill of materia
 - 1 × 0.96″ OLED display (SSD1306, I²C, 128×64) - shows controller status, mode, distance, and the calibration menu
 - 1 × HC-SR04 ultrasonic sensor - autonomous obstacle detection
 - 1 × PS4 or PS5 controller - wireless driving (paired via Bluepad32)
-- 1 × battery holder + batteries (or 1 × LiPo + charger)
+- 1 × battery holder + 3x18650 batteries (+ 18650 charger)
+- 1 x step down converter to adjust the voltage from 11V to 7V for the DC-motors
 - jumper wires, screws, USB cable
 
 ### Tools
