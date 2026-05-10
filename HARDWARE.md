@@ -14,15 +14,15 @@ Complete bill of materials, wiring map, and notes. Prices reflect what I paid in
 | 4 | Caster wheel / front ball roller | 1 | € 3.50 | local shop |
 | 5 | 0.96″ OLED display, SSD1306, I²C, 128×64 | 1 | € 2 | [AliExpress](https://de.aliexpress.com/item/1005007084725556.html) |
 | 6 | HC-SR04 ultrasonic distance sensor | 1 | € 1.50 | [AliExpress](https://de.aliexpress.com/item/1005007849944952.html) |
-| 7 | PS4 or PS5 wireless controller (DualShock 4 / DualSense) | 1 | € X | local shop |
-| 8 | Battery holder (3 × 18650) | 1 | € X | [AliExpress](https://de.aliexpress.com/item/4000962602731.html) |
+| 7 | PS4 or PS5 wireless controller (DualShock 4 / DualSense) | 1 | € X | usually already at home / local shop |
+| 8 | Battery holder (3 × 18650) | 1 | € 3 | [AliExpress](https://de.aliexpress.com/item/4000962602731.html) |
 | 9 | 18650 cells | 3 | € 14 | [AliExpress](https://de.aliexpress.com/item/1005008704468583.html) |
 | 10 | DC adjustable buck converter (step-down to 5 V) | 1 | € 1.50 | [AliExpress](https://de.aliexpress.com/item/1005008183314384.html) |
-| 11 | Jumper wires (M-M, M-F, F-F mixed) | 1 set | € X | [AliExpress](#) *(fill in your link)* |
+| 11 | Jumper wires (M-M, M-F, F-F mixed) | 1 set | € 2 | [AliExpress](https://de.aliexpress.com/item/1005007046465880.html) |
 | 12 | M3 screws + nuts (10 mm) | ~10 | € 3.50 | local shop |
-| 13 | USB cable (Micro-USB or USB-C, depending on board) | 1 | — | usually already at home |
+| 13 | USB cable (Micro-USB or USB-C, depending on board) | 1 | - | usually already at home |
 
-**Total approx. cost per car: € XX** *(controller often re-used between several cars in a workshop setting)*
+**Total approx. cost per car: € 50 - 60** *(controller often re-used between several cars in a workshop setting)*
 
 ---
 
